@@ -17,7 +17,15 @@
 - The donor can easily donate food and clothes after filling some necessary details.
 This app will contact nearby food and clothes collecting NGO and send them
 donor’s details. The NGO will collect donation and they will provide it to needy
-people 
+people.
+
+
+# Getting stared with creating a Donate India app
+<b> Step 1: </b>Clone this repository in your folder.<br/>
+<b> Step 2: </b>Create a firebase project with the same name as the project and grab the google-services.json file from firebase.<br/>
+<b> Step 3: </b>Replace it with in app folder.<br/>
+<b> Step 4: </b>connect your project with firebase and include the necessary dependencies.
+
 
 ### Built With
 - [Android Studio](https://developer.android.com/guide)
